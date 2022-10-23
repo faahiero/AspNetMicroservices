@@ -1,31 +1,15 @@
 
 _
 /Services/Catalog/Catalog.API/Catalog.API.csproj,c/a/ca271100d0846ccb3e09a3e521468fa5566e1d66
-k
-;Services/Catalog/Catalog.API/Properties/launchSettings.json,0/6/06374f5a81171ca09cbb73724daf39722ea4ec67
 d
 4Services/Catalog/Catalog.API/Data/ICatalogContext.cs,9/4/94197fc45e8125f2a2e4c5e218da28e4646bde3d
 o
 ?Services/Catalog/Catalog.API/Repositories/IProductRepository.cs,b/0/b0dd408b074438c2cb580b367015f2f3d088f9d8
-c
-3Services/Catalog/Catalog.API/Data/CatalogContext.cs,e/7/e73d8c98cf187357f6639159e9484105371a3d06
 g
 7Services/Catalog/Catalog.API/Data/CatalogContextSeed.cs,8/1/81cca65490aaed12219b800c1b9fea2b86cd52d9
 n
 >Services/Catalog/Catalog.API/Repositories/ProductRepository.cs,4/2/421f579aa4abdb61e200736e8086b8313d155204
-W
-'Services/Catalog/Catalog.API/Startup.cs,b/1/b1fec4fb2fe277cba127842826b982f9acb8dd6d
 =
 .dockerignore,0/5/05a721ebe3ba0754116825ed1359ff1785f4bbac
-]
--Services/Catalog/Catalog.API/appsettings.json,3/1/31b4a2f0980b8717bf7024ea0743fcc9c9f84d1e
 `
 0Services/Catalog/Catalog.API/Entities/Product.cs,7/1/71bbf6384580f20f370d6fc9722762d58654badd
-m
-=Services/Catalog/Catalog.API/Controllers/CatalogController.cs,d/9/d92805ae6263bff2b799eed4e98c2a331b3c913c
-B
-docker-compose.yml,3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a
-K
-docker-compose.override.yml,e/c/ecb22450b9b4e3feb0f0305f86011cac3a46c7a6
-W
-'Services/Catalog/Catalog.API/Dockerfile,9/9/998da50f9c5a962fea089d5e783f89279f032c4b
