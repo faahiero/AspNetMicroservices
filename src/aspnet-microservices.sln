@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{49
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.API", "Services\Discount\Discount.API\Discount.API.csproj", "{B8B7AF22-892E-4CB2-B91E-E6ED9754964B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.Grpc", "Services\Discount\Discount.Grpc\Discount.Grpc.csproj", "{57B4AF34-7CBA-4DF4-A591-0352474FB278}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,7 @@ Global
 		{594F0647-8B5F-484F-B648-0C0AAEC69957} = {719B698F-87EC-426F-88FA-058292897FA9}
 		{49E29B6F-95BD-42C9-9E77-47595A5CAD1F} = {5476E673-FC65-460C-98AD-4327F5CB9A1B}
 		{B8B7AF22-892E-4CB2-B91E-E6ED9754964B} = {49E29B6F-95BD-42C9-9E77-47595A5CAD1F}
+		{57B4AF34-7CBA-4DF4-A591-0352474FB278} = {49E29B6F-95BD-42C9-9E77-47595A5CAD1F}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{DB5D90D5-276C-4CDC-BBAD-5C85E8BAD351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -50,5 +53,9 @@ Global
 		{B8B7AF22-892E-4CB2-B91E-E6ED9754964B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8B7AF22-892E-4CB2-B91E-E6ED9754964B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8B7AF22-892E-4CB2-B91E-E6ED9754964B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B4AF34-7CBA-4DF4-A591-0352474FB278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B4AF34-7CBA-4DF4-A591-0352474FB278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B4AF34-7CBA-4DF4-A591-0352474FB278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B4AF34-7CBA-4DF4-A591-0352474FB278}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
